@@ -1,6 +1,32 @@
 <br />
 <img src="https://user-images.githubusercontent.com/3789273/128085813-92845abd-7c26-4fa2-9f98-928ce2246616.png" width="120px">
 
+<table>
+  <tr>
+    <td valign="middle"><a href="#user-setup">Run Locally</a></td>
+    <td valign="middle">
+      <a
+        style="display: inline-block; height: 32px;"
+        href="https://github.com/merico-dev/lake/wiki/How-to-Set-Up-Dev-Lake-with-Tin"
+      >
+        <img
+          src="https://static01.teamcode.com/badge/teamcode-badge-run-in-cloud-en.svg"
+          width="140px"
+          alt="Teamcode"
+          style="vertical-align: middle"
+        />
+      </a>
+     <a
+        style="display: inline-block; height: 32px;"
+        href="https://github.com/merico-dev/lake/wiki/How-to-Set-Up-Dev-Lake-with-Tin"
+        style="vertical-align: middle"
+        >See the Guide</a
+      >
+    </td>
+  </tr>
+</table>
+
+
 # Dev Lake
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat&logo=github&color=2370ff&labelColor=454545)](http://makeapullrequest.com)
 [![Discord](https://img.shields.io/discord/844603288082186240.svg?style=flat?label=&logo=discord&logoColor=ffffff&color=747df7&labelColor=454545)](https://discord.gg/83rDG6ydVZ)
